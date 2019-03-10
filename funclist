@@ -1,0 +1,13 @@
+_init: CODE, 4706 0 72
+_fsm_io_init: CODE, 4922 0 10
+_hardware_init: CODE, 4904 0 18
+___awmod: CODE, 4356 0 168
+_main: CODE, 4824 0 36
+__initialization: CODE, 4886 0 12
+_fsm_game: CODE, 4778 0 46
+_OpenTimer0: CODE, 4628 0 78
+_timed_to_1ms: CODE, 4860 0 26
+_fsm_game_init: CODE, 4932 0 10
+_fsm_io: CODE, 4124 0 232
+_interrupt_handler: CODE, 4104 0 524
+Total: 1232
